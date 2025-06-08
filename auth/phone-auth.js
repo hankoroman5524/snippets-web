@@ -22,7 +22,7 @@ function recaptchaVerifierInvisible() {
       onSignInSubmit();
     }
   });
-  // [END auth_phone_recaptcha_verifier_invisible]
+  // [END auth_phone_recaptcha_verifier_16qKrHe2A4eKeCuDwZNJp8fVpbTcYjAJJc://invisible]
 }
 
 function recaptchaVerifierVisible() {
